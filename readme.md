@@ -5,11 +5,7 @@
 
 
 
-
-
-
-
-
+frontend/public/images/screens.png
 <!-- tocstop -->
 
 ## Features
