@@ -5,7 +5,7 @@
 
 
 
-frontend/public/images/screens.png
+If You Want to See the Images of the website you can go to this --- >      frontend/public/images/screens.png
 <!-- tocstop -->
 
 ## Features
